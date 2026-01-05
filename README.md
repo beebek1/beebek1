@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bibek Soti
 
-### A passionate Javascript developer
+### A passionate developer currently learning
 
 - 🌱 I'm currently learning **Node.js and React vite**
 
