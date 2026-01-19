@@ -1,8 +1,8 @@
-# Hi 👋, I'm Bibek Soti
+# Hi, I'm Bibek Soti
 
 ### A passionate developer
 
-- 🌱 I'm currently learning **Node.js and React vite**
+-  I'm currently learning **Node.js and React vite**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
