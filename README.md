@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beebek1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=94a3b8&hide=prs&rank_icon=github" width="47%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beebek1&hide_border=true&background=0d1117&ring=64ffda&fire=f59e0b&currStreakLabel=64ffda&sideLabels=94a3b8&dates=475569&stroke=0d1117" width="47%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=beebek1&hide_border=true&background=0d1117&ring=64ffda&fire=f59e0b&currStreakLabel=64ffda&sideLabels=94a3b8&dates=475569&stroke=0d1117" width="47%" />
 </div>
 
 <br/>
