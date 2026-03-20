@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,react,tailwind,nodejs,express,nextjs,mysql,postgres,redis,firebase&theme=dark&perline=7" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,react,tailwind,nodejs,express,nextjs,mysql,postgres,npm,redis,firebase&theme=dark&perline=7" alt="tech stack" />
 </div>
 
 <br/>
