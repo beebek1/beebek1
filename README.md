@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d1117,100:0d1117&height=220&section=header&text=BEEBEK&fontSize=82&fontColor=e2e8f0&fontAlignY=45&desc=Architecting%20the%20Invisible&descAlignY=65&descSize=14&descColor=64ffda&fontAlign=50&fontFace=Playfair+Display" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d1117,100:0d1117&height=220&section=header&text=BEEBEK&fontSize=82&fontColor=e2e8f0&fontAlignY=45&desc=Architecting%20the%20Invisible&descAlignY=65&descSize=14&descColor=64ffda&fontAlign=50&fontFace=Playfair+Display](https://capsule-render.vercel.app/api?type=venom&height=200&color=64ffda&text=BEEBEK&section=header&textBg=false&fontSize=70&fontAlign=51&fontAlignY=49&animation=fadeIn&stroke=0c1116&fontColor=e2e8f0&desc=Architecting%20the%20Invisible&descAlign=51&descAlignY=72)" width="100%" />
 
 </div>
 
