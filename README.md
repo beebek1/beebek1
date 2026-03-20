@@ -7,7 +7,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=16&pause=1200&color=64FFDA&center=true&vCenter=true&width=600&lines=Optimizing+PostgreSQL+Queries;Building+Schemas+that+Scale;Latency-First+Engineering;Turning+Constraints+into+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=1200&color=64FFDA&center=true&vCenter=true&width=600&lines=Optimizing+PostgreSQL+Queries;Building+Schemas+that+Scale;Latency-First+Engineering;Turning+Constraints+into+Architecture" alt="Typing SVG" />
 </a>
 </div>
 
