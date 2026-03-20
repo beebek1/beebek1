@@ -31,8 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beebek1&hide_border=true&background=0d1117&ring=64ffda&fire=f59e0b&currStreakLabel=64ffda&sideLabels=94a3b8&dates=475569&stroke=0d1117" width="47%" />
 
   <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beebek1&bg_color=0d1117&color=64ffda&line=64ffda&point=f59e0b&area=true&area_color=64ffda20&hide_border=true&radius=8" width="97%" />
 </div>
 
 <br/>
