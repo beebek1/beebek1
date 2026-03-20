@@ -1,20 +1,18 @@
 <div align="center">
-
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=64ffda&text=BEEBEK&section=header&textBg=false&fontSize=70&fontAlign=51&fontAlignY=49&animation=fadeIn&stroke=0c1116&fontColor=e2e8f0&desc=Architecting%20the%20Invisible&descAlign=51&descAlignY=72" width="100%" />
-
+  <!-- HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,100:161b22&text=BEEBEK&section=header&textBg=false&fontSize=70&fontAlign=51&fontAlignY=49&animation=fadeIn&fontColor=64ffda&desc=Architecting%20the%20Invisible&descAlign=51&descAlignY=72&descFontColor=94a3b8" width="100%" />
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=1200&color=64FFDA&center=true&vCenter=true&width=600&lines=Optimizing+PostgreSQL+Queries;Building+Schemas+that+Scale;Latency-First+Engineering;Turning+Constraints+into+Architecture" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=1200&color=64FFDA&center=true&vCenter=true&width=600&lines=Optimizing+PostgreSQL+Queries;Building+Schemas+that+Scale;Latency-First+Engineering;Turning+Constraints+into+Architecture" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-<sub><code>───────────────── STACK ─────────────────</code></sub>
+  <sub><code>───────────────── STACK ─────────────────</code></sub>
 </div>
 
 <br/>
@@ -26,7 +24,7 @@
 <br/>
 
 <div align="center">
-<sub><code>───────────────── STATS ─────────────────</code></sub>
+  <sub><code>───────────────── STATS ─────────────────</code></sub>
 </div>
 
 <br/>
@@ -40,7 +38,7 @@
 <br/>
 
 <div align="center">
-<sub><code>───────────────── CONNECT ───────────────────</code></sub>
+  <sub><code>───────────────── CONNECT ───────────────────</code></sub>
 </div>
 
 <br/>
