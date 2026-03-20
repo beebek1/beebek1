@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=beebek1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=e2e8f0&number_color=ffffff&hide=prs&rank_icon=github" width="47%" />
   &nbsp;
   <!-- FIXED: brighter streak numbers -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=beebek1&hide_border=true&background=0d1117&ring=64ffda&fire=f59e0b&currStreakLabel=64ffda&sideLabels=94a3b8&dates=94a3b8&stats=ffffff&stroke=0d1117" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=beebek1&hide_border=true&background=0d1117&ring=64ffda&fire=f59e0b&currStreakLabel=64ffda&sideLabels=94a3b8&dates=94a3b8&stats=ffffff&stroke=0d1117" width="47%" />
 </div>
 <br/>
 <div align="center">
