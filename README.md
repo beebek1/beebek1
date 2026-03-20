@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d1117,100:0d1117&height=220&section=header&text=BIBEK%20SOTI&fontSize=72&fontColor=e2e8f0&fontAlignY=45&desc=Architecting%20the%20Invisible&descAlignY=65&descSize=14&descColor=64ffda&fontAlign=50&fontFace=Playfair+Display" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d1117,100:0d1117&height=220&section=header&text=BEEBEK&fontSize=82&fontColor=e2e8f0&fontAlignY=45&desc=Architecting%20the%20Invisible&descAlignY=65&descSize=14&descColor=64ffda&fontAlign=50&fontFace=Playfair+Display" width="100%" />
 
 </div>
 
@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,java,kotlin,react,nodejs,express,django,flask,androidstudio,git,vscode&theme=dark&perline=6" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,react,tailwind,nodejs,express,nextjs,mysql,postgres,redis,firebase&theme=dark&perline=7" alt="tech stack" />
 </div>
 
 <br/>
@@ -46,16 +46,20 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/beebek1">
-    <img src="https://img.shields.io/badge/GitHub-beebek1-161b22?style=for-the-badge&logo=github&logoColor=64ffda&labelColor=161b22&color=161b22" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/bibeksoti">
     <img src="https://img.shields.io/badge/LinkedIn-bibeksoti-161b22?style=for-the-badge&logo=linkedin&logoColor=64ffda&labelColor=161b22&color=161b22" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://dev.to/nex_bit_2658aa64eed3974ef">
+    <img src="https://img.shields.io/badge/Dev.to-nex__bit-161b22?style=for-the-badge&logo=devdotto&logoColor=64ffda&labelColor=161b22&color=161b22" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/nex-bit">
     <img src="https://img.shields.io/badge/Stack_Overflow-nex--bit-161b22?style=for-the-badge&logo=stackoverflow&logoColor=64ffda&labelColor=161b22&color=161b22" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bibeksoti.me">
+    <img src="https://img.shields.io/badge/Portfolio-bibeksoti.me-161b22?style=for-the-badge&logo=firefox&logoColor=64ffda&labelColor=161b22&color=161b22" />
   </a>
 </div>
 
