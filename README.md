@@ -54,16 +54,9 @@
     <img src="https://img.shields.io/badge/Dev.to-nex__bit-161b22?style=for-the-badge&logo=devdotto&logoColor=64ffda&labelColor=161b22&color=161b22" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/nex-bit">
-    <img src="https://img.shields.io/badge/Stack_Overflow-nex--bit-161b22?style=for-the-badge&logo=stackoverflow&logoColor=64ffda&labelColor=161b22&color=161b22" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://bibeksoti.me">
     <img src="https://img.shields.io/badge/Portfolio-bibeksoti.me-161b22?style=for-the-badge&logo=firefox&logoColor=64ffda&labelColor=161b22&color=161b22" />
   </a>
 </div>
 
 <br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a0a0f&height=80&section=footer" width="100%" />
