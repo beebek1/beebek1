@@ -62,8 +62,3 @@
     <img src="https://img.shields.io/badge/Portfolio-bibeksoti.me-161b22?style=for-the-badge&logo=firefox&logoColor=64ffda&labelColor=161b22&color=161b22" />
   </a>
 </div>
-
-<br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a0a0f&height=80&section=footer" width="100%" />
