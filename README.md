@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beebek1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=e2e8f0&hide=prs&rank_icon=github" width="47%" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=beebek1&hide_border=true&background=0d1117&ring=64ffda&fire=f59e0b&currStreakLabel=64ffda&sideLabels=e2e8f0&dates=94a3b8&stroke=0d1117&currStreakNum=e2e8f0&longestStreakNum=e2e8f0&longestStreakLabel=e2e8f0" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=beebek1&hide_border=true&background=0d1117&ring=64ffda&fire=f59e0b&currStreakLabel=64ffda&sideLabels=ffffff&dates=ffffff&stroke=0d1117&currStreakNum=ffffff&longestStreakNum=ffffff&longestStreakLabel=ffffff&totalCount=ffffff" width="47%" />
 </div>
 
 <br/>
@@ -58,8 +58,3 @@
     <img src="https://img.shields.io/badge/Portfolio-bibeksoti.me-161b22?style=for-the-badge&logo=firefox&logoColor=64ffda&labelColor=161b22&color=161b22" />
   </a>
 </div>
-
-<br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a0a0f&height=80&section=footer" width="100%" />
