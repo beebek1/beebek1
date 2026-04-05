@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
   <!-- FIXED: brighter text for numbers -->
-![Beebek's GitHub stats](https://github-readme-stats.vercel.app/api?username=beebek1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=e2e8f0&number_color=ffffff&hide=prs&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api?username=beebek1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=e2e8f0&number_color=ffffff&hide=prs&rank_icon=github" width="47%" alt="GitHub Stats" />
   
   <!-- FIXED: brighter streak numbers -->
   <img src="https://streak-stats.demolab.com/?user=beebek1&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakNum=ffffff&currStreakLabel=64ffda&sideNums=ffffff&sideLabels=94a3b8&dates=475569&stroke=0d1117" width="47%" />
