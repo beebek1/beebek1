@@ -9,7 +9,7 @@
 </div>
 <br/>
 <div align="center">
-<sub><code>───────────────── STACK ─────────────────</code></sub>
+<sub><code>─────────────────  STACK  ─────────────────</code></sub>
 </div>
 <br/>
 <div align="center">
